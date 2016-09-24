@@ -1,5 +1,7 @@
 # Scarne-s-Dice
 
+This Android application was done as a part of the coursework of Google's Applied CS with Android program.
+
 Scarne’s Dice is a turn-based dice game where players score points by rolling a die and then:
 
 1. if they roll a 1, score no points and lose their turn
